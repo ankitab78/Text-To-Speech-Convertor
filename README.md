@@ -32,7 +32,7 @@ cd Text-to-Speech-Converter
 
 ## Usage
 
-1. Open the Text-to-Speech-Converter in your web browser by accessing the [live demo](https://ankitab78.github.io/QR-code-generator/) or hosting it locally as described in the Installation section.
+1. Open the Text-to-Speech-Converter in your web browser by accessing the [live demo](https://ankitab78.github.io/Text-To-Speech-Convertor/) or hosting it locally as described in the Installation section.
 
 2. Enter the text for which you want to speech from a Text-to-Speech-Converter in the input field.
 
