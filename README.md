@@ -46,5 +46,5 @@ Contributions to the QR Code Generator project are welcome! If you find any issu
 Enjoy using the Text-to-Speech-Converter! If you have any questions or need further assistance, feel free to reach out to the project's author or the community. Happy Text-to-Speech-Converter!
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-bharti-091853258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)is a client-side application, you can use it directly without any installation.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-bharti-091853258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    is a client-side application, you can use it directly without any installation.
 
