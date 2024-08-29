@@ -19,7 +19,7 @@ As the Text-to-Speech-Converter is a client-side application, you can use it dir
 1. Clone this repository to your local machine:
 
 bash git
-https://github.com/ankitab78/QR-code-generator.git
+https://github.com/ankitab78/Text-To-Speech-Convertor.git
 
 
 2. Navigate to the project directory:
@@ -40,7 +40,7 @@ cd Text-to-Speech-Converter
 
 ## Contributing
 
-Contributions to the QR Code Generator project are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request on the [GitHub repository](https://github.com/ankitab78/QR-code-generator.git).
+Contributions to the QR Code Generator project are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request on the [GitHub repository](https://github.com/ankitab78/Text-To-Speech-Convertor.git).
 
 ---
 Enjoy using the Text-to-Speech-Converter! If you have any questions or need further assistance, feel free to reach out to the project's author or the community. Happy Text-to-Speech-Converter!
